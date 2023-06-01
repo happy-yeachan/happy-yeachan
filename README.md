@@ -27,5 +27,5 @@ I wanna be a developer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dus001228&show_icons=true)  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dus001228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/dus001228)        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdus001228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/dus001228)     
 
