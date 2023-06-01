@@ -1,7 +1,7 @@
 ### 나는 예찬 👋 readme 나중에 꾸밀꺼야
 
 
-**dus001228/dus001228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> If i can dream it, i can do it
 
 Here are some ideas to get you started:
 
