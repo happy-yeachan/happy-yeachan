@@ -1,5 +1,5 @@
 ### 안녕 나는 예찬이야 👋 
-I wanna be a developer.
+
 
 > ***If i can dream it, i can do it 😎***
 
