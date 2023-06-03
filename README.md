@@ -3,7 +3,7 @@
 ### 나는 예찬👋
 
 
-I'm Backend Developer Yeachan.
+I'm Backend Developer.
 
 - 🌱 I’m currently learning algorithm, Django, Python.
 - 📫 How to reach me: dus001228@naver.com 
