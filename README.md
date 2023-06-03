@@ -1,5 +1,4 @@
-### 안녕 나는 예찬 👋 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋안녕👋&fontSize=45" />
 
 > ***If i can dream it, i can do it 😎***
 
