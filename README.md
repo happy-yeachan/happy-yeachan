@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋안녕👋&fontSize=45" />
 
-### 나는 예찬👋
+### 나는 예찬😁
 
 
 I'm Backend Developer.
