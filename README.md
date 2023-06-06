@@ -19,7 +19,7 @@ I'm Backend Developer.
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
 <img src="https://img.shields.io/badge/DRF-FF6F00?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-FCC624?style=for-the-badge&logo=aws&logoColor=yellow">
+<img src="https://img.shields.io/badge/aws-FCC624?style=for-the-badge&logo=AWS&logoColor=yellow">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
