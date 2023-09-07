@@ -26,7 +26,7 @@ I'm Backend Developer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dus001228&show_icons=true)  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/dus001228)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dus001228)](https://solved.ac/dus001228)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdus001228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/dus001228)     
 
