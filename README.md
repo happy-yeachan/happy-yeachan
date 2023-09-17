@@ -30,4 +30,4 @@ I'm Backend Developer.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappy-yeachan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/happy-yeachan) 
 
-> ***If i can dream it, i can do it 👍😎***
+> ***If i can dream it, i can do it 😎***
