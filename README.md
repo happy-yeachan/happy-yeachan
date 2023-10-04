@@ -5,7 +5,7 @@
 
 I'm Backend Developer.
 
-- 🌱 I’m currently learning algorithm, Django, Python.
+- 🌱 I’m currently learning algorithm, Django, Python, opencv
 - 📫 How to reach me: dus001228@naver.com 
 
 <a href="https://yeachan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
