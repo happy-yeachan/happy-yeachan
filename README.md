@@ -13,7 +13,7 @@ I'm Backend Developer.
 <a href="https://github.com/dus001228" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/yea._chan/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-✏ Stack   
+✏ 스택이라 하긴 뭐하고 써보긴 했던 것들   
 <img src="https://img.shields.io/badge/Django-EE4C2C?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
