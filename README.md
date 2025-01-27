@@ -23,7 +23,7 @@
 | **다학제 캡스톤디자인**            | 2023.05 ~ 2024.06      | YOLO_NAS 활용 객체 탐지 기반 Smart Parking Service 프로젝트: 서버 구축 및 협업 관리 (**팀장**)                                                                           |
 | **2024 유성 데이터기반 실증 리빙랩** | 2024.03 ~ 2024.12      | 보훈수당지급 효율화 프로그램 기획 및 개발 (**최우수상, 구청장상**)                                                                                                     |
 | **AAICON 2024**                  | 2024.06                | 보훈수당지급 효율화 프로그램 기획 및 개발 ([**우수 논문 선정**](https://aifrenz.org/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=45983422&t=board)) |
-| **SPARCS AI Hackathon**          | 2024.04.06             | FastAPI/OpenAI 활용, 가족 AI 생성 로직 개발 (백엔드 담당)                                                                                                       |
+| **SPARCS AI Hackathon**          | 2024.07 ~ 2024.08             | FastAPI/OpenAI 활용, 가족 AI 생성 로직 개발 (백엔드 담당)                                                                                                       |
 | **2024 캡스톤디자인(졸업작품)**    | 2024.06.01 ~ 2024.12.31 | 논문 요약 및 숏츠 자동 생성 프로그램 개발 (**1등**)                                                                                                            |
 | **카카오 클라우드 네이티브 제주 2기** | 2024.10 ~               | Express, AWS, Docker, Kubernetes 등 클라우드 네이티브 기술 학습 및 프로젝트                                                                                     |
 
