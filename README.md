@@ -7,7 +7,7 @@
 <a href="https://github.com/dus001228" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/yea._chan/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-# 🏃 **활동**
+# 🏃
 
 | **활동**                         | **기간**                | **활동 내용**                                                                                                                                                  |
 |-----------------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,7 +32,7 @@
 
 <br>
 
-## ✏ 스택
+## ✏
 
 <p align="left">
   <!-- HTML -->
