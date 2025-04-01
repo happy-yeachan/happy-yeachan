@@ -1,4 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋안녕👋&fontSize=45" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happy-yeachan&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/happy-yeachan"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 ### 나는 예찬😁😎
 
