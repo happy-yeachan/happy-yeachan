@@ -2,13 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+happy+yeachan+haha+%F0%9F%98%81)](https://git.io/typing-svg)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happy-yeachan&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/happy-yeachan"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happy-yeachan&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/happy-yeachan?pet-id=694718172016342894"
+    width="600"
+    height="120"
+  />
 </a>
+
 
 
 
