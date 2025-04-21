@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋안녕👋&fontSize=45" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+happy+yeachan+haha+%F0%9F%98%81)](https://git.io/typing-svg)
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happy-yeachan&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/happy-yeachan"
@@ -8,7 +11,6 @@
 </a>
 
 
-### 나는 예찬😁😎
 
 <a href="https://yeachan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://www.notion.so/imyeachan/e384a9dee1a148898a3bd4d1dbc88ae3?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
