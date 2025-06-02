@@ -15,7 +15,7 @@
 
 
 <a href="https://yeachan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="https://www.notion.so/imyeachan/e384a9dee1a148898a3bd4d1dbc88ae3?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/imyeachan/1bc4ee17929f80688321c76ceeaa6331" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/dus001228" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 # 🏃
