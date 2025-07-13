@@ -44,4 +44,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dus001228)](https://solved.ac/dus001228) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-yeachan&layout=compact&theme=dark)
 
-> ***반갑습니다.***
